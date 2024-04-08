@@ -2,7 +2,7 @@
 # IEEETrans latex template
 
 
-- Compile two versions, writing and submission. In writing version, we defined a set of commands to mark changed text. 
+- Compile two versions, writing and submission. In writing version, we defined a set of commands to mark changed text (see main.tex). 
 
 ![commands](cmd.png)
 
