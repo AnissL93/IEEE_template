@@ -16,8 +16,7 @@
  \newcommand{\submitmode}{true}
 ```
 
-
-
+see https://github.com/AnissL93/ACM_template/ for ACM templates
 
 
 
