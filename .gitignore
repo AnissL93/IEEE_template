@@ -1,0 +1,8 @@
+*.aux
+*.bbl
+*.log
+*.blg
+*.out
+paper-writting.pdf
+paper-submission.pdf
+.auctex-auto
