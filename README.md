@@ -8,7 +8,7 @@
 ![commands](cmd.png)
 
 
-- Original template in latex_template.tar.gz, which is downloaded from https://www.iccad-conf.com/submission/.
+- Original template in latex_template.tar.gz, which can be downloaded from https://template-selector.ieee.org/secure/templateSelector/downloadTemplate?publicationTypeId=3&titleId=1&articleId=1&fileId=540
 - Local compile: make
 - Overleaf: uncomment this line of code in main.tex to generate submission version while using overleaf
 
